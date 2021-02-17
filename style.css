@@ -44,6 +44,7 @@ body {
 .header-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
+
 }
 
 .hero-image {
@@ -75,7 +76,7 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: "Old Standard TT", serif;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
